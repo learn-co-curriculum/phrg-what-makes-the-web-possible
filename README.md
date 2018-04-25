@@ -38,3 +38,4 @@ At its core, these five components make the internet possible. To recap:
 The web and the internet are two marvelous pieces of engineering work, but that is not the reason why it’s hard to imagine our life without them today. Their inventors made them free for anyone to use. Creators are able to build on top of the web and internet and reach anyone. This is what makes the web and internet magical.
 
 How can you be one of those creators? Simply know how to generate HTML!
+<p data-visibility='hidden'>PHRG What makes the web possible</p>
